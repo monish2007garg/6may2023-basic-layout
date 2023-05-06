@@ -19,7 +19,7 @@ footer{
     border:2px dashed blue;
 }
 aside.leftaside{
-        width:25;
+        width:25%;
         min-height:1200px;
         border:1px dashed red;
         float:left;
